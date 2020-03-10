@@ -26,6 +26,8 @@
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate AlmunasiQ into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
+platform :ios, '13.0'
+
 pod 'AlmunasiQ', '~> 1.0.0'
 ```
 
